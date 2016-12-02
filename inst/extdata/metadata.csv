@@ -1,0 +1,199 @@
+"Title","Description","BiocVersion","SourceUrl","SourceVersion","DataProvided","Maintainer","RDataClass","ResourceName"
+"ACC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ACC.rnaseq.20160128"
+"BLCA.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BLCA.rnaseq.20160128"
+"BRCA.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BRCA.rnaseq.20160128"
+"CESC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CESC.rnaseq.20160128"
+"CHOL.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CHOL.rnaseq.20160128"
+"COADREAD.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","COADREAD.rnaseq.20160128"
+"DLBC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","DLBC.rnaseq.20160128"
+"ESCA.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ESCA.rnaseq.20160128"
+"GBMLGG.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","GBMLGG.rnaseq.20160128"
+"HNSC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","HNSC.rnaseq.20160128"
+"KICH.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KICH.rnaseq.20160128"
+"KIPAN.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIPAN.rnaseq.20160128"
+"KIRC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRC.rnaseq.20160128"
+"KIRP.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRP.rnaseq.20160128"
+"LAML.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LAML.rnaseq.20160128"
+"LIHC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LIHC.rnaseq.20160128"
+"LUAD.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUAD.rnaseq.20160128"
+"LUSC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUSC.rnaseq.20160128"
+"MESO.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","MESO.rnaseq.20160128"
+"OV.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","OV.rnaseq.20160128"
+"PAAD.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PAAD.rnaseq.20160128"
+"PCPG.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PCPG.rnaseq.20160128"
+"PRAD.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PRAD.rnaseq.20160128"
+"SARC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SARC.rnaseq.20160128"
+"SKCM.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SKCM.rnaseq.20160128"
+"STAD.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STAD.rnaseq.20160128"
+"STES.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STES.rnaseq.20160128"
+"TGCT.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","TGCT.rnaseq.20160128"
+"THCA.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THCA.rnaseq.20160128"
+"THYM.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THYM.rnaseq.20160128"
+"UCEC.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCEC.rnaseq.20160128"
+"UCS.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCS.rnaseq.20160128"
+"UVM.rnaseq.20160128"," Package provides RNASeq datasets from The Cancer Genome Atlas
+Project for all cohorts types from http://gdac.broadinstitute.org/. RNASeq
+data format is explained on NCI TCGA wiki https://wiki.nci.nih.gov/display/TCGA/RNASeq+Version+2.
+Data source is illumina hiseq Level 3 RSEM normalized expression data.
+Data taken from 2016-01-28 release. All release dates are
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UVM.rnaseq.20160128"
